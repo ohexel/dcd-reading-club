@@ -12,3 +12,5 @@ Next reading: TBD
 
 ## Past readings
 Matt Salganik, _Bit by bit_, [chapter 6](https://www.bitbybitbook.com/en/1st-ed/ethics/)
+
+Edelmann et al., "Computational Social Science and Sociology," _Annual Review of Sociology_, 2020, 46:61-81, DOI:[10.1146/annurev-soc-121919-054621](https://doi.org/10.1146/annurev-soc-121919-054621)
