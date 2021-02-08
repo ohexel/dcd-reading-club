@@ -1,5 +1,5 @@
 # DCD Reading Club
-Next meeting date: TBD
+Next meeting date: Tuesday 2/23/2021, 1pm - 2pm
 
 Next reading: TBD
 
