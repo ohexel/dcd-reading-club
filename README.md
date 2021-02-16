@@ -1,7 +1,7 @@
 # DCD Reading Club
 Next meeting date: Tuesday 2/23/2021, 1pm - 2pm
 
-Next reading: TBD
+Next reading: "Total Error in a Big Data World: Adapting the TSE Framework to Big Data," Ashley Amaya, Paul P Biemer, David Kinyon, _Journal of Survey Statistics and Methodology_, Volume 8, Issue 1, February 2020, Pages 89–119, [https://doi.org/10.1093/jssam/smz056](https://doi.org/10.1093/jssam/smz056)
 
 ## Suggestions
 [Total Error in a Big Data World: Adapting the TSE Framework to Big Data](https://academic.oup.com/jssam/article/8/1/89/5728725)
