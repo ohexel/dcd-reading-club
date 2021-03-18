@@ -1,19 +1,26 @@
 # DCD Reading Club
 Next meeting date: Wednesday March 24th, 2pm - 3pm
 
-Next reading: TBD
+Next reading: The p-value crisis
 
 ## Suggestions
 ### The p-value crisis
-[It’s time to talk about ditching statistical significance (Nature editorial)](https://www.nature.com/articles/d41586-019-00874-8)
 
-[Scientists rise up against statistical significance (Nature comment)](https://www.nature.com/articles/d41586-019-00857-9)
+[Moving to a world beyond "p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 
-[Moving to a world beyond "p<0.05" (see below for the special issue of _The American Statistician_](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+> Summarizes the problems, consequences, and recommendations in a "user-friendly" way. Also summarizes the articles that made up the special issue.
 
 [Interpreting _P_ values](https://www.nature.com/articles/nmeth.4210)
 
+> Short methodological article on how to "properly" use p-values.
+
+[Scientists rise up against statistical significance (Nature comment)](https://www.nature.com/articles/d41586-019-00857-9)
+
+> Short polemical article arguing that one should never ever use p-values going forward.
+
 [The Practical Alternative to the _p_ Value Is the Correctly Used _p_ Value](https://journals.sagepub.com/doi/pdf/10.1177/1745691620958012)
+
+> "Standard-length" methodological article arguing that instead of prohibiting p-values, statisticians should provide better guidance to researchers on when p-values make sense, how to interpret them, and what alternatives are available.
 
 ### Case study 1: Marital Coital Frequency
 Original: [Marital Coital Frequency and the Passage of Time: Estimating the Separate Effects of Spouses' Ages and Marital Duration, Birth and Marriage Cohorts, and Period Influences](https://www.jstor.org/stable/2095411)
