@@ -1,27 +1,9 @@
 # DCD Reading Club
-Next meeting date: Wednesday March 24th, 2pm - 3pm
+Next meeting date: TBD
 
-Next reading: The p-value crisis
+Next reading: TBD
 
 ## Suggestions
-### The p-value crisis
-
-[Moving to a world beyond "p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
-
-> Summarizes the problems, consequences, and recommendations in a "user-friendly" way. Also summarizes the articles that made up the special issue.
-
-[Interpreting _P_ values](https://www.nature.com/articles/nmeth.4210)
-
-> Short methodological article on how to "properly" use p-values.
-
-[Scientists rise up against statistical significance (Nature comment)](https://www.nature.com/articles/d41586-019-00857-9)
-
-> Short polemical article arguing that one should never ever use p-values going forward.
-
-[The Practical Alternative to the _p_ Value Is the Correctly Used _p_ Value](https://journals.sagepub.com/doi/pdf/10.1177/1745691620958012)
-
-> "Standard-length" methodological article arguing that instead of prohibiting p-values, statisticians should provide better guidance to researchers on when p-values make sense, how to interpret them, and what alternatives are available.
-
 ### Case study 1: Marital Coital Frequency
 Original: [Marital Coital Frequency and the Passage of Time: Estimating the Separate Effects of Spouses' Ages and Marital Duration, Birth and Marriage Cohorts, and Period Influences](https://www.jstor.org/stable/2095411)
 
@@ -51,7 +33,7 @@ Comment 1: [Female hurricanes are not deadlier than male hurricanes](https://www
 
 Comment 2: [Specification curve analysis (see below)](https://www.nature.com/articles/s41562-020-0912-z)
 
-Comment 3: [my thoughts on that hurricane study](https://scatter.wordpress.com/2014/06/03/my-thoughts-on-that-hurricane-study/)
+Comment 3: [Jeremy Freese's thoughts on that hurricane study](https://scatter.wordpress.com/2014/06/03/my-thoughts-on-that-hurricane-study/)
 
 
 ### Statistical inference: misc
@@ -95,3 +77,22 @@ Matt Salganik, _Bit by bit_, [chapter 6](https://www.bitbybitbook.com/en/1st-ed/
 Edelmann et al., "Computational Social Science and Sociology," _Annual Review of Sociology_, 2020, 46:61-81, DOI:[10.1146/annurev-soc-121919-054621](https://doi.org/10.1146/annurev-soc-121919-054621)
 
 Amaya et al., "Total Error in a Big Data World: Adapting the TSE Framework to Big Data," _Journal of Survey Statistics and Methodology_, 2020, 8 (1), 89-119, [https://doi.org/10.1093/jssam/smz056](https://doi.org/10.1093/jssam/smz056)
+
+### The p-value crisis
+
+[Moving to a world beyond "p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+
+> Summarizes the problems, consequences, and recommendations in a "user-friendly" way. Also summarizes the articles that made up the special issue.
+
+[Interpreting _P_ values](https://www.nature.com/articles/nmeth.4210)
+
+> Short methodological article on how to "properly" use p-values.
+
+[Scientists rise up against statistical significance (Nature comment)](https://www.nature.com/articles/d41586-019-00857-9)
+
+> Short polemical article arguing that one should never ever use p-values going forward.
+
+[The Practical Alternative to the _p_ Value Is the Correctly Used _p_ Value](https://journals.sagepub.com/doi/pdf/10.1177/1745691620958012)
+
+> "Standard-length" methodological article arguing that instead of prohibiting p-values, statisticians should provide better guidance to researchers on when p-values make sense, how to interpret them, and what alternatives are available.
+
